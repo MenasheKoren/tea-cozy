@@ -42,11 +42,17 @@ a {
 
 }
 
-
-
 nav {
-  display: block;
+  text-align: right;
+  flex-grow: 1;
 }
+
+nav span {
+  display: inline-block;
+  padding: 20px 10px;
+}
+
+
 
 
 
