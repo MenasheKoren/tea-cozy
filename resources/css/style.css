@@ -57,9 +57,13 @@ nav span {
   padding: 20px 10px;
 }
 
+/* main section  */
+
 main {
-  position: relative;
-  padding-top: 70px;
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
 }
 
 /* misssion section  */
