@@ -34,7 +34,6 @@ header {
 }
 
 header img {
-  display: flex;
   height: 50px;
   margin-left: 10px;
 }
@@ -46,7 +45,7 @@ a {
 
 }
 
-nav {
+.nav {
   text-align: right;
   flex-grow: 1;
 }
