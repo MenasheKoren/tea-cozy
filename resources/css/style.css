@@ -23,9 +23,6 @@ h4 {
 }
 
 header {
-  display: inline-flex;
-  /* flex-flow: row wrap; */
-  justify-content: space-between;
   align-items: center;
   flex: 1;
   position: fixed;
@@ -36,7 +33,7 @@ header {
   width: 100%;
 }
 
-#logo {
+header img {
   display: flex;
   height: 50px;
   margin-left: 10px;
