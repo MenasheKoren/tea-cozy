@@ -97,7 +97,7 @@ main {
   width: 1000px;
 }
 
-#flavor img {
+.flavor img {
   height: 200px;
   width: 300px;
   padding-top: 10px;
