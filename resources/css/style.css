@@ -72,6 +72,7 @@ main {
   background-image: url(../images/img-mission-background.jpg);
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 700px;
   width: 1200px;
 }
@@ -83,6 +84,7 @@ main {
   align-items: center;
   background-color: black;
   width: 1200px;
+
 
 }
 
